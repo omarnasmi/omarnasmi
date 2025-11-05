@@ -47,7 +47,7 @@
 
 #### ⚙️ Back-End Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=codeigniter,laravel,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=codeigniter,php,nodejs,express" />
 </p>
 
 #### 📱 Mobile Development
