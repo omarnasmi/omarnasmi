@@ -12,11 +12,24 @@
 
 ### 🧠 About Me
 
-- 🎓 I’m currently studying **Web Engineering**  
-- 💻 I love creating **efficient and scalable backend systems**  
-- 🔭 Most of my projects are available on [**my GitHub**](https://github.com/omarnasmi)  
+- 🎓 **Web Engineering student at ESGI – Reims, France**  
+- 💻 Passionate about **backend development**, database design, and scalable software solutions  
+- 🧩 Experienced in **CodeIgniter**, **Node.js**, **Python**, and **MySQL**  
+- 🌍 Always exploring modern web technologies and clean architectures  
 - 📫 Reach me at **omarnasmiprofessional@gmail.com**  
-- 📄 Learn more about my experience → [**View Resume**](#) _(coming soon)_
+- 🔗 Most of my projects are available on [**my GitHub**](https://github.com/omarnasmi)  
+- 📄 Learn more about my background → [**View Resume**](#) _(coming soon)_
+
+---
+
+### 🎓 Education
+
+| Degree | Years | Institution | Location |
+|:-------|:------|:------------|:----------|
+| **Mastère en Ingénierie Web** | 2025 – 2027 *(in progress)* | ESGI – École Supérieure de Génie Informatique | Reims, France |
+| **Licence en Ingénierie Logicielle** | 2024 – 2025 | Université Ibn Zohr – Faculté des Sciences | Agadir, Morocco |
+| **DUT en Génie Informatique** | 2022 – 2024 | École Supérieure de Technologie – Université Ibn Zohr | Agadir, Morocco |
+| **Baccalauréat en Sciences Physiques** | 2021 – 2022 | Lycée Ibn Majah | Agadir, Morocco |
 
 ---
 
@@ -63,6 +76,7 @@
 #### 🧰 Tools & Environment
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+  <img src="https://img.shields.io/badge/Laragon-0A66C2?style=for-the-badge&logo=laravel&logoColor=white" alt="Laragon" />
 </p>
 
 ---
