@@ -33,10 +33,36 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧩 Languages & Tools
 
+#### 🧠 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,codeigniter,laravel,python,java,kotlin,nodejs,express,mysql,sqlite,mongodb,c,git,github,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,php,js,c" />
+</p>
+
+#### 🎨 Front-End Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
+
+#### ⚙️ Back-End Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=codeigniter,laravel,nodejs,express" />
+</p>
+
+#### 📱 Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+</p>
+
+#### 🧰 Tools & Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---
