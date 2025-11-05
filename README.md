@@ -60,9 +60,10 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
 </p>
 
-#### 🧰 Tools & Version Control
+#### 🧰 Tools & Environment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+  <img src="https://img.shields.io/badge/Laragon-0A66C2?style=for-the-badge&logo=laravel&logoColor=white" alt="Laragon" />
 </p>
 
 ---
