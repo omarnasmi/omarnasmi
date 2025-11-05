@@ -29,7 +29,6 @@
 | **Mastère en Ingénierie Web** | 2025 – 2027 *(in progress)* | ESGI – École Supérieure de Génie Informatique | Reims, France |
 | **Licence en Ingénierie Logicielle** | 2024 – 2025 | Université Ibn Zohr – Faculté des Sciences | Agadir, Morocco |
 | **DUT en Génie Informatique** | 2022 – 2024 | École Supérieure de Technologie – Université Ibn Zohr | Agadir, Morocco |
-| **Baccalauréat en Sciences Physiques** | 2021 – 2022 | Lycée Ibn Majah | Agadir, Morocco |
 
 ---
 
