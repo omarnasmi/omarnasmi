@@ -1,60 +1,21 @@
-# 👋 Hi, I'm [Your Name]
+<h1 align="center">Hi 👋, I'm Omar NASMI</h1>
+<h3 align="center">A passionate Backend Developer</h3>
 
-💻 **Full-Stack Web Developer** | 🚀 Passionate about building scalable web apps and efficient backend systems
+- 🌱 I’m currently learning **Web Engineering**
 
----
+- 👨‍💻 All of my projects are available at [github.com/omarnasmi](github.com/omarnasmi)
 
-### 🧰 Tech Stack
+- 📫 How to reach me **omarnasmiprofessional@gmail.com**
 
-**Languages:**
-- JavaScript (ES6+)
-- Python
-- Java
+- 📄 Know about my experiences [resume](resume)
 
-**Backend:**
-- Node.js
-- Express.js
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/omar-nasmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-nasmi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omarnasmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omarnasmi" height="30" width="40" /></a>
+</p>
 
-**Databases:**
-- MySQL
-- MongoDB
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-**Other Tools & Skills:**
-- RESTful APIs
-- Git & GitHub
-- JSON / AJAX
-- MVC Architecture
-- Authentication (JWT, OAuth)
-
----
-
-### 📚 About Me
-
-I'm a web developer who loves turning ideas into interactive, user-friendly web applications.  
-I enjoy solving complex problems, optimizing performance, and learning new technologies.  
-When I’m not coding, you’ll probably find me reading about new frameworks or contributing to open-source projects.
-
----
-
-### 📫 Connect with Me
-
-🔗 **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/yourusername)  
-📧 **Email:** [your.email@example.com]
-
----
-
-### 🚧 Current Projects
-- 🌐 Building RESTful APIs with Node.js and Express  
-- 🗄️ Developing database-driven apps using MySQL and MongoDB  
-- 🧠 Exploring Python automation and data processing  
-
----
-
-### ⚙️ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)
-
----
-
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarnasmi&show_icons=true&locale=en&layout=compact" alt="omarnasmi" /></p>
