@@ -15,7 +15,6 @@
 - 🎓 **Engineering Student at ESGI – Reims, France**
 - 🏗️ Focused on **Distributed Architectures**, **Cloud Infrastructure**, and **Software Engineering**
 - 🤖 Currently building **Roadly**, an AI-driven SaaS platform using RAG architectures  
-- ⚡ Seeking a **3-year Apprenticeship (Diplôme d'Ingénieur CTI)** starting September 2025  
 - 🌍 English: **C1 (Advanced)** | French: **Fluent** | Arabic: **Native**
 - 📫 Reach me at: **omarnasmiprofessional@gmail.com**
 
