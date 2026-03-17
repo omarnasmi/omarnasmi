@@ -24,7 +24,7 @@
 
 | Degree | Years | Institution | Location |
 |:-------|:------|:------------|:----------|
-| **Diplôme d'Ingénieur Informatique (CTI)** | 2025 – 2028 | ESGI – École Supérieure de Génie Informatique | Reims, France |
+| **Mastère Ingénierie Web** | 2025 – 2027 | ESGI – École Supérieure de Génie Informatique | Reims, France |
 | **Licence en Ingénierie Logicielle** | 2024 – 2025 | Université Ibn Zohr | Agadir, Morocco |
 | **DUT en Génie Informatique** | 2022 – 2024 | École Supérieure de Technologie | Agadir, Morocco |
 
