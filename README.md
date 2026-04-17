@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-- 🎓 **Engineering Student at ESGI – Reims, France**
+- 🎓 **IT Engineering Student at ITII Picardie – Beauvais, France**
 - 🏗️ Focused on **Distributed Architectures**, **Cloud Infrastructure**, and **Software Engineering**
 - 🤖 Currently building **Roadly**, an AI-driven SaaS platform using RAG architectures  
 - 🌍 English: **C1 (Advanced)** | French: **Fluent** | Arabic: **Native**
@@ -24,7 +24,7 @@
 
 | Degree | Years | Institution | Location |
 |:-------|:------|:------------|:----------|
-| **Mastère Ingénierie Web** | 2025 – 2027 | ESGI – École Supérieure de Génie Informatique | Reims, France |
+| **Diplome d'ingénieur Informatique** | 2026 – 2029 | ITII Picardie - CNAM | Beauvais, France |
 | **Licence en Ingénierie Logicielle** | 2024 – 2025 | Université Ibn Zohr | Agadir, Morocco |
 | **DUT en Génie Informatique** | 2022 – 2024 | École Supérieure de Technologie | Agadir, Morocco |
 
