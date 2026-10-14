@@ -12,8 +12,8 @@
 
 ### 🧠 About Me
 
-- 🎓 **IT Engineering Student at ITII Picardie – Beauvais, France**
-- 🏗️ Focused on **Distributed Architectures**, **Cloud Infrastructure**, and **Software Engineering**
+- 🎓 **Software Engineering Student at Avignon University – Avignon, France**
+- 🏗️ Focused on **Software Engineering** and **RAG Solutions**
 - 🤖 Currently building **Roadly**, an AI-driven SaaS platform using RAG architectures  
 - 🌍 English: **C1 (Advanced)** | French: **Fluent** | Arabic: **Native**
 - 📫 Reach me at: **omarnasmiprofessional@gmail.com**
@@ -24,7 +24,7 @@
 
 | Degree | Years | Institution | Location |
 |:-------|:------|:------------|:----------|
-| **Diplome d'ingénieur Informatique** | 2026 – 2029 | ITII Picardie - CNAM | Beauvais, France |
+| **Master en Ingénierie Logicielle** | 2026 – 2028 | Avignon Université - CERI | Avignon, France |
 | **Licence en Ingénierie Logicielle** | 2024 – 2025 | Université Ibn Zohr | Agadir, Morocco |
 | **DUT en Génie Informatique** | 2022 – 2024 | École Supérieure de Technologie | Agadir, Morocco |
 
