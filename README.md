@@ -40,9 +40,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarnasmi&theme=dark&stroke=00b894&ring=00b894&fire=00b894&currStreakNum=00b894&background=0f172a&border=1e293b" alt="Omar's Streak Stats" width="48%" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnasmi&layout=compact&title_color=00b894&text_color=94a3b8&bg_color=0f172a&border_color=1e293b&hide_border=false" alt="Top Languages" width="60%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/omarnasmi/omarnasmi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/omarnasmi/omarnasmi/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/omarnasmi/omarnasmi/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
+
 
 ---
 
